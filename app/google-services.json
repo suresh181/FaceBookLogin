@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "989273923340",
+    "project_id": "login-eafcf",
+    "storage_bucket": "login-eafcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989273923340:android:488bbf7177046ac0dd7329",
+        "android_client_info": {
+          "package_name": "com.my.facebooklogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989273923340-20im5gguf54g9rkv5kdfdkf3vdc6kuj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.my.facebooklogin",
+            "certificate_hash": "4d09875b4337db71ff3c242153f2c7ff6b28f379"
+          }
+        },
+        {
+          "client_id": "989273923340-jp90ktd80837l81o1v1m2cb168qbjgs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnJDYIg26n7F5bu06V_x3o-2iCmvO68Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989273923340-jp90ktd80837l81o1v1m2cb168qbjgs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
